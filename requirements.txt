@@ -1,0 +1,14 @@
+openai
+langchain
+langchain-openai
+PyMuPDF
+python-pptx
+ddgs
+pydub
+tiktoken
+python-dotenv
+
+# Optional (for better audio processing)
+# librosa>=0.10.0  # Advanced audio manipulation
+# pyrubberband>=0.3.0  # Time stretching and pitch shifting
+# pysndfx>=0.3.6  # Audio effects
